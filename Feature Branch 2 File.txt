@@ -1,2 +1,2 @@
-my test file
+my test file - changend in branch 3
 a second change is made to this file
